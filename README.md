@@ -1,14 +1,12 @@
-# Hello, My Name is Resty
 
-<div style="font-family: 'Courier New', monospace; background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px; text-align: center; max-width: 800px; margin: auto;">
-    <div style="font-size: 2em; margin-bottom: 20px; color: #ffffff;">
-        Hello, my name is Resty.
-    </div>
-    <div style="font-size: 1.2em; line-height: 1.6; margin-bottom: 40px; color: #ffffff;">
+
+<div align="center" style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px; font-family: monospace;">
+    <h1 style="color: #ffffff;">Hello, my name is Resty.</h1>
+    <p style="font-size: 1.2em; line-height: 1.6;">
         I aspire to work with data — whether Collecting it, Shaping it, Analyzing it, or Developing every possible way to let it speak for itself.
-    </div>
+    </p>
     <!-- Tech Stack -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #ffffff; padding: 20px; border-radius: 10px;">
+    <div style="background-color: #ffffff; padding: 20px; border-radius: 10px; display: inline-block;">
         <img src="https://img.shields.io/badge/HTML-6424cc?style=for-the-badge&logo=html5&logoColor=6424cc&labelColor=000000&logoWidth=20" alt="HTML">
         <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=6424cc&logoWidth=20" alt="CSS">
         <img src="https://img.shields.io/badge/JS-6424cc?style=for-the-badge&logo=javascript&logoColor=6424cc&labelColor=000000&logoWidth=20" alt="JS">
