@@ -20,7 +20,7 @@
         <h3 style="margin: 0 0 5px 0;">
             <a href="https://restntherest.my.canva.site/portfolio-case-study" style="color: #ffffff; text-decoration: none;">E-Commerce Retail KPI Analytics</a>
         </h3>
-        <p style="margin: 0; font-size: 0.9em; color: #aaa;">SQL | VB.NET</p>
+        <p style="margin: 0; font-size: 0.9em; color: #aaa;">SQL | VBM </p>
         <p style="font-size: 0.85em; color: #ccc; margin-top: 5px;">
             Built a clean, deduplicated SQL pipeline producing 10 KPIs with 100% validation accuracy. Generated insights such as 64.91% revenue concentration in high-value customers and 8.04% MoM GMV growth.
         </p>
@@ -30,7 +30,7 @@
         <h3 style="margin: 0 0 5px 0;">
             <a href="https://github.com/resntherest/Data-Science-Analyst-HandsOn" style="color: #ffffff; text-decoration: none;">Python-Based Data Science Projects</a>
         </h3>
-        <p style="margin: 0; font-size: 0.9em; color: #aaa;">Python (Pandas, NumPy, Matplotlib) | Jupyter</p>
+        <p style="margin: 0; font-size: 0.9em; color: #aaa;">Python (Pandas, NumPy, Matplotlib) | Jupyter Notebook </p>
         <p style="font-size: 0.85em; color: #ccc; margin-top: 5px;">
             Cleaned and transformed 5 datasets using Pandas/NumPy. Extracted trends from weather, automotive, traffic, and housing data, visualizing patterns for decision-making.
         </p>
@@ -40,7 +40,7 @@
         <h3 style="margin: 0 0 5px 0;">
             <a href="https://github.com/resntherest/UI_Frontend_CHATBOT" style="color: #ffffff; text-decoration: none;">AI-Powered Academic Performance Predictor</a>
         </h3>
-        <p style="margin: 0; font-size: 0.9em; color: #aaa;">AI | Python | Node.js | React.js</p>
+        <p style="margin: 0; font-size: 0.9em; color: #aaa;">AI | Python | Node.js | React.js | Postman </p>
         <p style="font-size: 0.85em; color: #ccc; margin-top: 5px;">
             Built an AI chatbot predicting student pass/fail outcomes based on attendance and study habits. Applied ETL processes for clean model training data.
         </p>
@@ -50,7 +50,7 @@
         <h3 style="margin: 0 0 5px 0;">
             <a href="https://github.com/resntherest/internship-Inventory-system" style="color: #ffffff; text-decoration: none;">IT Department Inventory Monitoring System</a>
         </h3>
-        <p style="margin: 0; font-size: 0.9em; color: #aaa;">VB.NET | SQL Server | JavaScript</p>
+        <p style="margin: 0; font-size: 0.9em; color: #aaa;">VB.NET | SQL | SQL Server | JavaScript</p>
         <p style="font-size: 0.85em; color: #ccc; margin-top: 5px;">
             A digital logbook for tracking IT assets, borrows, and assignments. Features Excel import/export, barcode scanning, and customizable UI for internal workflows.
         </p>
